@@ -1,0 +1,7 @@
+.v-card:not(.v-sheet--tile):not(.v-card--shaped) {
+    border-radius: 0;
+}
+.v-sheet.v-sheet-night {
+    background: #2e2e2eb5;
+    color: #fff;
+}
